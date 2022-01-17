@@ -4,6 +4,7 @@ package com.StaticExample;
 public class StaticBlock {
     static int a = 4;
     static int b;
+    int abc = 9;
 
     static {
         System.out.println("I am in static Block");

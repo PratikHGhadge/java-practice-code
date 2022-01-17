@@ -1,5 +1,7 @@
 package com.StaticExample;
 
+import com.company.Main;
+
 public class main {
     public static void main(String[] args) {
         Human Pratik = new Human(19,"Pratik Ghadge", 70000,false);
@@ -10,7 +12,8 @@ public class main {
         System.out.println(Human.Population);
         System.out.println(Human.Population);
 
-//        greeting();
+        main obj = new main();
+        obj.greeting();
     }
 
     // This is not dependent on object
