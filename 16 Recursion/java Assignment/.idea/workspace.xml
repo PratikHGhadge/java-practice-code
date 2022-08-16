@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="754e9c37-c5bd-45ec-81a1-441eac53d56a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../15 Math for dsa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPS_Lecture_1&amp;2/OOPS_Lecture_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPS_Lecture_3/OOPS_Lecture_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPS_Lecture_4/OOPS_Lecture_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPS_Lecture_6&amp;7/OOPS_Lecture_6&amp;7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14 Recursion/out/production/14 Recursion/com/company/easy/Digitsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14 Recursion/out/production/14 Recursion/com/company/easy/Digitsum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14 Recursion/out/production/14 Recursion/com/company/easy/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../14 Recursion/out/production/14 Recursion/com/company/easy/ReverseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14 Recursion/src/com/company/easy/Digitsum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14 Recursion/src/com/company/easy/Digitsum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../14 Recursion/src/com/company/easy/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../14 Recursion/src/com/company/easy/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/OOPS_Lecture_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/Pratik/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/Singalton/Singalton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/Singalton/abc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/A/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/B/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/B/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/IneerClass$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/IneerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/StaticExample/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/company/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/company/Main$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/company/Pakeg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/out/production/OOPS_Lecture_1/com/company/WrapperExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/Pratik/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/Singalton/Singalton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/Singalton/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/A/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/B/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/B/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/IneerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/StaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/StaticExample/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/company/Pakeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPS_Lecture_1/src/com/company/WrapperExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="29FNqEZZfpU4hfMTC3zNkzs7qLy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Pratik.Main" />
+      <module name="java Assignment" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="754e9c37-c5bd-45ec-81a1-441eac53d56a" name="Changes" comment="" />
+      <created>1652705064812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652705064812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
